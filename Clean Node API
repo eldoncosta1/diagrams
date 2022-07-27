@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T13:17:41.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="w2HAnQ7Eh3qZljDmQ652" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T15:03:43.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_3fgOKrspDDUWV8SSQHi" version="20.1.3" type="github" pages="2">
   <diagram id="1kQ5Q55ORiLp0eZsfzGs" name="Page-1">
-    <mxGraphModel dx="1798" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2467" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,76 @@
         </mxCell>
         <mxCell id="LMTSt35-StbX2zU1aT-I-1" value="Main" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="122" y="25" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IYH1jQn-Nzgxgi7RwfG6" name="Página-2">
+    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2C8uy1DxPyoWqW-BXlz6-1" target="q2w-2MW7EjvLPb4Yx_Mw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2C8uy1DxPyoWqW-BXlz6-1" value="SignUpController" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-1" value="Validation" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-2" target="q2w-2MW7EjvLPb4Yx_Mw-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="40" />
+              <mxPoint x="30" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-2" value="ValidationComposite" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-3" target="q2w-2MW7EjvLPb4Yx_Mw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-3" value="RequiredFieldValidation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-4" target="q2w-2MW7EjvLPb4Yx_Mw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-4" value="ComapreFieldValidation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-5" target="q2w-2MW7EjvLPb4Yx_Mw-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="160" />
+              <mxPoint x="300" y="160" />
+              <mxPoint x="300" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-5" target="q2w-2MW7EjvLPb4Yx_Mw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-5" value="EmailValidation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-11" value="EmailValidatior" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-12" target="q2w-2MW7EjvLPb4Yx_Mw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q2w-2MW7EjvLPb4Yx_Mw-12" target="q2w-2MW7EjvLPb4Yx_Mw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-12" value="EmailValidatorAdapter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q2w-2MW7EjvLPb4Yx_Mw-13" value="Validator" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
