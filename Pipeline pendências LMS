@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T19:51:05.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XxEBpnCQZboIvxmyX2Fs" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T20:45:47.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zJSKUflf2kgw9U7oPqYb" version="20.2.5" type="github" pages="2">
   <diagram id="5fT1vttqDQCVxBPOUzY9" name="LMS">
-    <mxGraphModel dx="1185" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#0F1216" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#0F1216" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,43 @@
         </mxCell>
         <mxCell id="oyzEkiyCsgV9bHi16lSS-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Em análise&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#E4FDE1;strokeColor=#a6f750;fillColor=#330033;align=center;" parent="1" vertex="1">
           <mxGeometry x="767" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Sprint 12" id="NfLfedN5vQEnvnFts31y">
+    <mxGraphModel dx="1265" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#0F1216" math="0" shadow="0">
+      <root>
+        <mxCell id="FGM0lB4-i17DgYpa-smv-0" />
+        <mxCell id="FGM0lB4-i17DgYpa-smv-1" parent="FGM0lB4-i17DgYpa-smv-0" />
+        <mxCell id="FGM0lB4-i17DgYpa-smv-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Fluxo de utilização da API nas telas de exercícios na visão do professor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=11;fontColor=#E4FDE1;" vertex="1" parent="FGM0lB4-i17DgYpa-smv-1">
+          <mxGeometry x="-10" y="5" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FGM0lB4-i17DgYpa-smv-9" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="FGM0lB4-i17DgYpa-smv-1">
+          <mxGeometry x="40" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FGM0lB4-i17DgYpa-smv-10" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Listar módulos da turma&lt;br&gt;&amp;nbsp;/modules-and-topics/{classId}&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#E4FDE1;strokeColor=#2371ff;fillColor=#181c23;" vertex="1" parent="FGM0lB4-i17DgYpa-smv-9">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FGM0lB4-i17DgYpa-smv-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Em análise&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#E4FDE1;strokeColor=#a6f750;fillColor=#330033;align=center;" vertex="1" parent="FGM0lB4-i17DgYpa-smv-1">
+          <mxGeometry x="767" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV_en0Fd-yGWsUiCVnz-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Usar o id para buscar os exercícios da lista&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fillColor=#d5e8d4;strokeColor=#33FF99;" edge="1" parent="FGM0lB4-i17DgYpa-smv-1" source="hCV_en0Fd-yGWsUiCVnz-0" target="hCV_en0Fd-yGWsUiCVnz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV_en0Fd-yGWsUiCVnz-0" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Listar listas de exercícios&lt;br&gt;/exercises/list/{code}&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#181c23;strokeColor=#2371ff;fontColor=#E4FDE1;rounded=0;sketch=0;" vertex="1" parent="FGM0lB4-i17DgYpa-smv-1">
+          <mxGeometry x="40" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV_en0Fd-yGWsUiCVnz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeColor=#33FF99;" edge="1" parent="FGM0lB4-i17DgYpa-smv-1" source="FGM0lB4-i17DgYpa-smv-10" target="hCV_en0Fd-yGWsUiCVnz-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCV_en0Fd-yGWsUiCVnz-2" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Usar o campo code que é retornado na listagem dos módulos&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="hCV_en0Fd-yGWsUiCVnz-1">
+          <mxGeometry x="-0.2248" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCV_en0Fd-yGWsUiCVnz-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Listar os exercícios da lista&lt;br&gt;/exercises/list/id/{questionListId}&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#181c23;strokeColor=#2371ff;fontColor=#E4FDE1;rounded=0;sketch=0;" vertex="1" parent="FGM0lB4-i17DgYpa-smv-1">
+          <mxGeometry x="40" y="300" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
