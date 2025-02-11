@@ -19,11 +19,11 @@
         <mxCell id="61" value="O LMS vai utilizar somente o ssoId do usuário &#xa;para consumir os recursos" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="244" y="110" width="278" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qSZGHppJdApFGwv3EscU-100" value="Quais funcionalidades são necessárias para o aluno?&#xa;Quais funcionalidades são necessárias para o professor?&#xa;Quais dados enviaremos para CIEE?&#xa;- As presenças serão enviadas via API?&#xa;&#xa;  &#xa;" style="text;spacingTop=-5;align=left;" vertex="1" parent="1">
+        <mxCell id="qSZGHppJdApFGwv3EscU-100" value="Quais funcionalidades são necessárias para o aluno?&#xa;Quais funcionalidades são necessárias para o professor?&#xa;Quais dados enviaremos para CIEE?&#xa;- Rubricas&#xa;- Exercícios&#xa;- Projetos&#xa;- Presenças: As presenças serão enviadas via API?&#xa;&#xa;&#xa;  &#xa;" style="text;spacingTop=-5;align=left;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="344" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qSZGHppJdApFGwv3EscU-101" value="Como será a estrutura de módulos?&#xa;Como será a estrutura de turmas?&#xa;Quais dados enviaremos para o CIEE? (Presenças)" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="20" y="220" width="344" height="60" as="geometry" />
+        <mxCell id="qSZGHppJdApFGwv3EscU-101" value="Como será a estrutura de módulos?&#xa;Como será a alocação dos professores?&#xa;Como será a estrutura de turmas?&#xa;Como será a estrutura das aulas? (associada ao módulo, à turma?)&#xa;Como será a distribuição dos alunos nas turmas?" style="text;spacingTop=-5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="410" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
