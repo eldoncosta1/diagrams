@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-decoration: underline;&quot;&gt;&lt;strong&gt;ERP&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Application.CIEE&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;...&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Application.Private&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Application.Public&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="70" y="100" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qSZGHppJdApFGwv3EscU-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#990000;strokeWidth=2;curved=0;" edge="1" parent="1" source="8" target="2">
+        <mxCell id="qSZGHppJdApFGwv3EscU-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#990000;strokeWidth=2;curved=0;" parent="1" source="8" target="2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;LMS&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Um novo front&lt;br&gt;(enxuto)&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;com visão de&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;aluno e prof&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
@@ -19,11 +19,85 @@
         <mxCell id="61" value="O LMS vai utilizar somente o ssoId do usuário &#xa;para consumir os recursos" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="244" y="110" width="278" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qSZGHppJdApFGwv3EscU-100" value="Quais funcionalidades são necessárias para o aluno?&#xa;Quais funcionalidades são necessárias para o professor?&#xa;Quais dados enviaremos para CIEE?&#xa;- Rubricas&#xa;- Exercícios&#xa;- Projetos&#xa;- Presenças: As presenças serão enviadas via API?&#xa;&#xa;&#xa;  &#xa;" style="text;spacingTop=-5;align=left;" vertex="1" parent="1">
+        <mxCell id="qSZGHppJdApFGwv3EscU-100" value="Quais funcionalidades são necessárias para o aluno?&#xa;Quais funcionalidades são necessárias para o professor?&#xa;Quais dados enviaremos para CIEE?&#xa;- Rubricas&#xa;- Exercícios&#xa;- Projetos&#xa;- Presenças: As presenças serão enviadas via API?&#xa;&#xa;&#xa;  &#xa;" style="text;spacingTop=-5;align=left;" parent="1" vertex="1">
           <mxGeometry x="470" y="230" width="344" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qSZGHppJdApFGwv3EscU-101" value="Como será a estrutura de módulos?&#xa;Como será a alocação dos professores?&#xa;Como será a estrutura de turmas?&#xa;Como será a estrutura das aulas? (associada ao módulo, à turma?)&#xa;Como será a distribuição dos alunos nas turmas?" style="text;spacingTop=-5;align=left;" vertex="1" parent="1">
+        <mxCell id="qSZGHppJdApFGwv3EscU-101" value="Como será a estrutura de módulos?&#xa;Como será a alocação dos professores?&#xa;Como será a estrutura de turmas?&#xa;Como será a estrutura das aulas? (associada ao módulo, à turma?)&#xa;Como será a distribuição dos alunos nas turmas?" style="text;spacingTop=-5;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="220" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-61" target="VfDBJwqbKkugQcY86qdf-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="530" />
+              <mxPoint x="370" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-61" target="VfDBJwqbKkugQcY86qdf-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-61" target="VfDBJwqbKkugQcY86qdf-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-61" value="Ciee - Etapa Inicial&lt;br&gt;Turma (Inicial)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-62" target="VfDBJwqbKkugQcY86qdf-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-62" value="&lt;font&gt;Módulo Impulso Digital Oficina 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="554.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-63" value="Aula" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-64" value="Template de Módulo&lt;div&gt;&lt;br&gt;&lt;div&gt;Impulso Digital&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-67" target="VfDBJwqbKkugQcY86qdf-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-67" value="Atribuir instrutor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-68" value="O link da aula será associado ao instrutor" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="675" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-73" target="VfDBJwqbKkugQcY86qdf-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-73" value="&lt;font&gt;Módulo Impulso Digital Oficina 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="313" y="555" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VfDBJwqbKkugQcY86qdf-75" target="VfDBJwqbKkugQcY86qdf-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-75" value="Módulo Impulso Digital Oficina n" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="555" width="137" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-77" value="..." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-86" value="É possível criar a alocação de um professor a mais de um módulo mesmo que esteja com choque de horário?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="870" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-87" value="Aula" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="323" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VfDBJwqbKkugQcY86qdf-89" target="VfDBJwqbKkugQcY86qdf-87" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-89" value="Atribuir instrutor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="323" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-91" value="Aula" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="VfDBJwqbKkugQcY86qdf-93" target="VfDBJwqbKkugQcY86qdf-91" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfDBJwqbKkugQcY86qdf-93" value="Atribuir instrutor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
