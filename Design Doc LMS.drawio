@@ -20,7 +20,7 @@
             <mxPoint x="406.81081081081084" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pypxWtPJ6jng-wuyhJPV-1" value="Acessa as turmas&lt;div&gt;em que está matriculado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lnmgxQ-TkLNhtuKLghFE-9">
+        <mxCell id="pypxWtPJ6jng-wuyhJPV-1" value="Visualiza as turmas&lt;div&gt;em que está matriculado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lnmgxQ-TkLNhtuKLghFE-9">
           <mxGeometry x="-0.1833" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
