@@ -151,7 +151,7 @@
         </object>
         <object placeholders="1" c4Type="Database" c4Technology="RDS MySQL" c4Description="Armazena informações de alunos matriculados em turma" label="%c4Type%&lt;div style=&quot;font-size: 12px;&quot;&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;%c4Description%&lt;/div&gt;" id="AtdmSoMEF_yhiQ30HpCC-4">
           <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;labelBackgroundColor=none;fillColor=#999999;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#8A8A8A;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};arcSize=10;" parent="6M9tTkYtrs8H_QPtwX7E-1" vertex="1">
-            <mxGeometry x="1070" y="405" width="160" height="140" as="geometry" />
+            <mxGeometry x="1280" y="405" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Web Application" c4Type="Container" c4Technology="Nextjs" c4Description="Fornece a seleção de turmas" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,2XVK7RYDKxdhMDquu4st" id="lYJF4gXNzrw0ycB4rWT1-0">
@@ -234,7 +234,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="1QhhWGX9CRt8mEw6j9e7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;dashed=1;strokeWidth=2;" edge="1" parent="6M9tTkYtrs8H_QPtwX7E-1" source="1QhhWGX9CRt8mEw6j9e7-0" target="AtdmSoMEF_yhiQ30HpCC-4">
+        <mxCell id="1QhhWGX9CRt8mEw6j9e7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#707070;dashed=1;strokeWidth=2;" edge="1" parent="6M9tTkYtrs8H_QPtwX7E-1" source="1QhhWGX9CRt8mEw6j9e7-0" target="Is_DzVtF_9GQ3vIHqJg7-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="ERP" c4Type="Software System" c4Description="Fornece a lista de turmas que aluno está matriculado" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="1QhhWGX9CRt8mEw6j9e7-0">
@@ -242,11 +242,19 @@
             <mxGeometry x="820" y="420" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
+        <object placeholders="1" c4Name="SSO" c4Type="Software System" c4Description="Fornece informações de usuários cadastrados" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Is_DzVtF_9GQ3vIHqJg7-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="6M9tTkYtrs8H_QPtwX7E-1">
+            <mxGeometry x="1050" y="420" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Is_DzVtF_9GQ3vIHqJg7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#707070;dashed=1;" edge="1" parent="6M9tTkYtrs8H_QPtwX7E-1" source="Is_DzVtF_9GQ3vIHqJg7-0" target="AtdmSoMEF_yhiQ30HpCC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2XVK7RYDKxdhMDquu4st" name="C4 Component">
-    <mxGraphModel dx="683" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AVTp8zRlv71y_wTY7c-L-0" />
         <mxCell id="AVTp8zRlv71y_wTY7c-L-1" parent="AVTp8zRlv71y_wTY7c-L-0" />
