@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2XVK7RYDKxdhMDquu4st" name="C4 Component">
-    <mxGraphModel dx="1750" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AVTp8zRlv71y_wTY7c-L-0" />
         <mxCell id="AVTp8zRlv71y_wTY7c-L-1" parent="AVTp8zRlv71y_wTY7c-L-0" />
@@ -347,7 +347,7 @@
         </mxCell>
         <mxCell id="-fP8H89GdARROj-DkDR_-6" value="Usa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-fP8H89GdARROj-DkDR_-4">
           <mxGeometry x="-0.1276" y="1" relative="1" as="geometry">
-            <mxPoint x="-36" y="1" as="offset" />
+            <mxPoint x="-23" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Authentication" c4Type="Component" c4Technology="Middleware/Express/Nodejs" c4Description="Verifica se usuário tem permissão para acessar página" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="5MoVeIhPErhMrRM2h9Du-1">
@@ -407,7 +407,7 @@
         </mxCell>
         <mxCell id="-fP8H89GdARROj-DkDR_-5" value="Usa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NNc7S-BRfePUJoxpi0Tl-1">
           <mxGeometry x="0.0365" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-1" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="SSO" c4Type="Software System" c4Description="Verifica permissões de usuário a partir do token" label="&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/div&gt;" id="3otQxGcbVnXcWHrC8UB8-0">
