@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7UhaJ9ljh7ebol46HkWr" name="C4 Container">
-    <mxGraphModel dx="1050" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6M9tTkYtrs8H_QPtwX7E-0" />
         <mxCell id="6M9tTkYtrs8H_QPtwX7E-1" parent="6M9tTkYtrs8H_QPtwX7E-0" />
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2XVK7RYDKxdhMDquu4st" name="C4 Component">
-    <mxGraphModel dx="1050" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AVTp8zRlv71y_wTY7c-L-0" />
         <mxCell id="AVTp8zRlv71y_wTY7c-L-1" parent="AVTp8zRlv71y_wTY7c-L-0" />
