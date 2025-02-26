@@ -4,44 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Buscar lista de calendários novos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="70" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="fZgnt0yr8DJA_-cti_pc-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Para cada usuário(aluno) buscar o calendário completo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="157.5" y="190" width="135" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZgnt0yr8DJA_-cti_pc-0" target="fZgnt0yr8DJA_-cti_pc-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-0" value="Criar os seguintes recursos a partir do calendário" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="315" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZgnt0yr8DJA_-cti_pc-2" target="fZgnt0yr8DJA_-cti_pc-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZgnt0yr8DJA_-cti_pc-2" target="fZgnt0yr8DJA_-cti_pc-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-2" value="Para cada etapa encontrada realizar as seguintes operações" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="162.5" y="430" width="125" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="fZgnt0yr8DJA_-cti_pc-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgba(232, 232, 232, 0.04);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&quot;etapas&quot;: {&lt;br&gt;        &quot;INICIAL&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1456&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Angelica de Sa Santos&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;26/07/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;06/08/2021&quot;&lt;br&gt;        },&lt;br&gt;        &quot;REGULAR&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1454&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Angelica de Sa Santos&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;09/08/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;06/06/2022&quot;&lt;br&gt;        },&lt;br&gt;        &quot;COMPLEMENTAR&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1444&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Andrea Simone Baurich&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;TESTE 2 0607&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Promotor Gabriel Nettuzzi Perez, 150, São Paulo, SP, `cep` 04743020&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;10/08/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;26/04/2022&quot;&lt;br&gt;        },&lt;br&gt;        &quot;FINAL&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;521&quot;,&lt;br&gt;            &quot;instrutor&quot;: null,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: null,&lt;br&gt;            &quot;dataFim&quot;: null&lt;br&gt;        }&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="150" width="680" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZgnt0yr8DJA_-cti_pc-5" target="fZgnt0yr8DJA_-cti_pc-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-5" value="Para cada dia de aula de um aluno criar um módulo a partir do template padrão&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="162.5" y="670" width="125" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-6" value="Criar a matrícula desse aluno" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="22.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fZgnt0yr8DJA_-cti_pc-8" value="Buscar lista de calendários modificados" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="170" width="130" height="60" as="geometry" />
@@ -49,20 +13,59 @@
         <mxCell id="fZgnt0yr8DJA_-cti_pc-9" value="- A gente consegue saber qual calendário foi modificado na listagem?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-473" y="60" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-11" value="Criar a alocação do professor ao módulo" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="770" width="120" height="55" as="geometry" />
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-24" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="22.5" y="70" width="347.5" height="755" as="geometry" />
         </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZgnt0yr8DJA_-cti_pc-14" target="fZgnt0yr8DJA_-cti_pc-5">
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-14" value="Criar turma" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="165" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Buscar lista de calendários novos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fZgnt0yr8DJA_-cti_pc-24" vertex="1">
+          <mxGeometry x="137.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fZgnt0yr8DJA_-cti_pc-5" target="fZgnt0yr8DJA_-cti_pc-11">
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="WIyWlLk6GJQsqaUBKTNV-7" target="fZgnt0yr8DJA_-cti_pc-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fZgnt0yr8DJA_-cti_pc-18" value="Criar aula" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="770" width="120" height="55" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Para cada usuário(aluno) buscar o calendário completo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="fZgnt0yr8DJA_-cti_pc-24" vertex="1">
+          <mxGeometry x="135" y="120" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="fZgnt0yr8DJA_-cti_pc-0" target="fZgnt0yr8DJA_-cti_pc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-0" value="Criar os seguintes recursos a partir do calendário" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry x="142.5" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="fZgnt0yr8DJA_-cti_pc-2" target="fZgnt0yr8DJA_-cti_pc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="fZgnt0yr8DJA_-cti_pc-2" target="fZgnt0yr8DJA_-cti_pc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-2" value="Para cada etapa encontrada realizar as seguintes operações" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry x="140" y="360" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="fZgnt0yr8DJA_-cti_pc-5" target="fZgnt0yr8DJA_-cti_pc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-5" value="Para cada dia de aula de um aluno criar um módulo a partir do template padrão&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry x="140" y="600" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-6" value="Criar a matrícula desse aluno" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-11" value="Criar a alocação do professor ao módulo" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry x="57.5" y="700" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="fZgnt0yr8DJA_-cti_pc-14" target="fZgnt0yr8DJA_-cti_pc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-14" value="Criar turma" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry x="142.5" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fZgnt0yr8DJA_-cti_pc-24" source="fZgnt0yr8DJA_-cti_pc-5" target="fZgnt0yr8DJA_-cti_pc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fZgnt0yr8DJA_-cti_pc-18" value="Criar aula" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-24">
+          <mxGeometry x="227.5" y="700" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
