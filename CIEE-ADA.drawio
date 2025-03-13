@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,6 +62,60 @@
         </mxCell>
         <mxCell id="fZgnt0yr8DJA_-cti_pc-18" value="Criar aula" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="fZgnt0yr8DJA_-cti_pc-26">
           <mxGeometry x="170" y="550" width="120" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7BTl-hLj1VCOfUcNxjzp" name="Criar turma">
+    <mxGraphModel dx="1105" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-2" target="oWwzNXWZX8qy_XJ1W_rp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-2" value="Para cada dia de aula de um aluno criar um módulo a partir do template padrão&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="290" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-3" value="Criar a matrícula desse aluno" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-4" value="Criar a alocação do professor ao módulo" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-7" target="oWwzNXWZX8qy_XJ1W_rp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-7" target="oWwzNXWZX8qy_XJ1W_rp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-7" value="Criar turma" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="385" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-2" target="oWwzNXWZX8qy_XJ1W_rp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-9" value="Criar aula" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="owLKd0Viz0MVUi0V2iUv-1" value="&lt;span style=&quot;font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgba(232, 232, 232, 0.04);&quot;&gt;exemplo de retorno:&lt;br&gt;{&lt;br&gt;    &quot;nome&quot;: &quot;João da Silva Teste &quot;,&lt;br&gt;    &quot;cpf&quot;: &quot;16789101802&quot;,&lt;br&gt;    &quot;email&quot;: &quot;wadja.silva@hotmail.com&quot;,&lt;br&gt;    &quot;nascimento&quot;: &quot;25/08/2002&quot;,&lt;br&gt;    &quot;statusAprendiz&quot;: &quot;ativo&quot;,&lt;br&gt;    &quot;dataInicioContrato&quot;: &quot;26/07/2021&quot;,&lt;br&gt;    &quot;dataFimContrato&quot;: &quot;07/06/2022&quot;,&lt;br&gt;    &quot;cnpj&quot;: &quot;29801520000185&quot;,&lt;br&gt;    &quot;codigoLocal&quot;: &quot;419890&quot;,&lt;br&gt;    &quot;programaId&quot;: &quot;794&quot;,&lt;br&gt;    &quot;programa&quot;: &quot;Comercio e Varejo&quot;,&lt;br&gt;    &quot;tipoCalendario&quot;: &quot;Modelo Padrão&quot;,&lt;br&gt;    &quot;cargaHorariaTeorica&quot;: 400,&lt;br&gt;    &quot;cargaHorariaPratica&quot;: 880,&lt;br&gt;    &quot;etapas&quot;: {&lt;br&gt;        &quot;INICIAL&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1456&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Angelica de Sa Santos&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;26/07/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;06/08/2021&quot;&lt;br&gt;        },&lt;br&gt;        &quot;REGULAR&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1454&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Angelica de Sa Santos&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;09/08/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;06/06/2022&quot;&lt;br&gt;        },&lt;br&gt;        &quot;COMPLEMENTAR&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1444&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Andrea Simone Baurich&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;TESTE 2 0607&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Promotor Gabriel Nettuzzi Perez, 150, São Paulo, SP, `cep` 04743020&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;10/08/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;26/04/2022&quot;&lt;br&gt;        },&lt;br&gt;        &quot;FINAL&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;521&quot;,&lt;br&gt;            &quot;instrutor&quot;: null,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: null,&lt;br&gt;            &quot;dataFim&quot;: null&lt;br&gt;        }&lt;br&gt;    },&lt;br&gt;    &quot;calendario&quot;: {&lt;br&gt;        &quot;2022-07-20&quot;: {&lt;br&gt;            &quot;message&quot;: &quot;Não há calendário nesta data&quot;,&lt;br&gt;            &quot;tipo_descricao&quot;: null,&lt;br&gt;            &quot;turmaId&quot;: null,&lt;br&gt;            &quot;cargaHoraria&quot;: null,&lt;br&gt;            &quot;cargaHorariaReduzida&quot;: false&lt;br&gt;        }&lt;br&gt;    }&lt;br&gt;}&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="810" y="10" width="720" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="owLKd0Viz0MVUi0V2iUv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owLKd0Viz0MVUi0V2iUv-2" target="oWwzNXWZX8qy_XJ1W_rp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owLKd0Viz0MVUi0V2iUv-2" value="Início" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="405" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="owLKd0Viz0MVUi0V2iUv-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owLKd0Viz0MVUi0V2iUv-1" target="owLKd0Viz0MVUi0V2iUv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="80" as="sourcePoint" />
+            <mxPoint x="740" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="80" />
+              <mxPoint x="690" y="30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
