@@ -67,39 +67,43 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7BTl-hLj1VCOfUcNxjzp" name="Criar turma">
-    <mxGraphModel dx="1313" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-2" target="oWwzNXWZX8qy_XJ1W_rp-9">
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-2" target="oWwzNXWZX8qy_XJ1W_rp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-2" value="Para cada dia de aula criar um módulo a partir do template padrão&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="142.5" y="480" width="125" height="60" as="geometry" />
+        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-2" value="Para cada dia de aula criar um módulo a partir do template padrão&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-152.5" y="745" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oWwzNXWZX8qy_XJ1W_rp-3" value="Criar a matrícula desse aluno" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="18" y="755" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-4" value="Criar a alocação do professor ao módulo" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="580" width="120" height="55" as="geometry" />
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7EFRxbz-zzoc5uvEwAoR-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="543.4999999999995" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-7" target="oWwzNXWZX8qy_XJ1W_rp-2">
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-24" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-22">
+          <mxGeometry x="-0.0479" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-7" target="7EFRxbz-zzoc5uvEwAoR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-7" target="oWwzNXWZX8qy_XJ1W_rp-3">
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-7" target="7EFRxbz-zzoc5uvEwAoR-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oWwzNXWZX8qy_XJ1W_rp-7" value="Criar turma" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="285" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oWwzNXWZX8qy_XJ1W_rp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oWwzNXWZX8qy_XJ1W_rp-2" target="oWwzNXWZX8qy_XJ1W_rp-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="18" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oWwzNXWZX8qy_XJ1W_rp-9" value="Criar aula" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="580" width="120" height="55" as="geometry" />
+          <mxGeometry x="-150" y="865" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="owLKd0Viz0MVUi0V2iUv-1" value="&lt;span style=&quot;font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-variant-ligatures: none; white-space-collapse: preserve; background-color: rgba(232, 232, 232, 0.04);&quot;&gt;exemplo de retorno:&lt;br&gt;{&lt;br&gt;    &quot;nome&quot;: &quot;João da Silva Teste &quot;,&lt;br&gt;    &quot;cpf&quot;: &quot;16789101802&quot;,&lt;br&gt;    &quot;email&quot;: &quot;wadja.silva@hotmail.com&quot;,&lt;br&gt;    &quot;nascimento&quot;: &quot;25/08/2002&quot;,&lt;br&gt;    &quot;statusAprendiz&quot;: &quot;ativo&quot;,&lt;br&gt;    &quot;dataInicioContrato&quot;: &quot;26/07/2021&quot;,&lt;br&gt;    &quot;dataFimContrato&quot;: &quot;07/06/2022&quot;,&lt;br&gt;    &quot;cnpj&quot;: &quot;29801520000185&quot;,&lt;br&gt;    &quot;codigoLocal&quot;: &quot;419890&quot;,&lt;br&gt;    &quot;programaId&quot;: &quot;794&quot;,&lt;br&gt;    &quot;programa&quot;: &quot;Comercio e Varejo&quot;,&lt;br&gt;    &quot;tipoCalendario&quot;: &quot;Modelo Padrão&quot;,&lt;br&gt;    &quot;cargaHorariaTeorica&quot;: 400,&lt;br&gt;    &quot;cargaHorariaPratica&quot;: 880,&lt;br&gt;    &quot;etapas&quot;: {&lt;br&gt;        &quot;INICIAL&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1456&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Angelica de Sa Santos&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;26/07/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;06/08/2021&quot;&lt;br&gt;        },&lt;br&gt;        &quot;REGULAR&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1454&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Angelica de Sa Santos&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;09/08/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;06/06/2022&quot;&lt;br&gt;        },&lt;br&gt;        &quot;COMPLEMENTAR&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;1444&quot;,&lt;br&gt;            &quot;instrutor&quot;: &quot;Andrea Simone Baurich&quot;,&lt;br&gt;            &quot;polo&quot;: &quot;TESTE 2 0607&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Promotor Gabriel Nettuzzi Perez, 150, São Paulo, SP, `cep` 04743020&quot;,&lt;br&gt;            &quot;dataInicio&quot;: &quot;10/08/2021&quot;,&lt;br&gt;            &quot;dataFim&quot;: &quot;26/04/2022&quot;&lt;br&gt;        },&lt;br&gt;        &quot;FINAL&quot;: {&lt;br&gt;            &quot;turmaId&quot;: &quot;521&quot;,&lt;br&gt;            &quot;instrutor&quot;: null,&lt;br&gt;            &quot;polo&quot;: &quot;SAO PAULO - POLO TATUAPE I&quot;,&lt;br&gt;            &quot;endereco&quot;: &quot;Rua Cesário Galero, 432, São Paulo, SP, `cep` 03071000&quot;,&lt;br&gt;            &quot;dataInicio&quot;: null,&lt;br&gt;            &quot;dataFim&quot;: null&lt;br&gt;        }&lt;br&gt;    },&lt;br&gt;    &quot;calendario&quot;: {&lt;br&gt;        &quot;2022-07-20&quot;: {&lt;br&gt;            &quot;message&quot;: &quot;Não há calendário nesta data&quot;,&lt;br&gt;            &quot;tipo_descricao&quot;: null,&lt;br&gt;            &quot;turmaId&quot;: null,&lt;br&gt;            &quot;cargaHoraria&quot;: null,&lt;br&gt;            &quot;cargaHorariaReduzida&quot;: false&lt;br&gt;        }&lt;br&gt;    }&lt;br&gt;}&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="810" y="10" width="720" height="870" as="geometry" />
+          <mxGeometry x="1220" y="-50" width="720" height="870" as="geometry" />
         </mxCell>
         <mxCell id="7EFRxbz-zzoc5uvEwAoR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owLKd0Viz0MVUi0V2iUv-2" target="7EFRxbz-zzoc5uvEwAoR-1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,20 +127,161 @@
         <mxCell id="7EFRxbz-zzoc5uvEwAoR-1" value="Separar cada etapa" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="385" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7EFRxbz-zzoc5uvEwAoR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-3" target="oWwzNXWZX8qy_XJ1W_rp-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="345" y="310" />
-            </Array>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-3" target="oWwzNXWZX8qy_XJ1W_rp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-20" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-19">
+          <mxGeometry x="-0.5387" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7EFRxbz-zzoc5uvEwAoR-7" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-6">
-          <mxGeometry x="-0.5045" y="4" relative="1" as="geometry">
-            <mxPoint y="-14" as="offset" />
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-3" target="7EFRxbz-zzoc5uvEwAoR-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-3" target="7EFRxbz-zzoc5uvEwAoR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-59" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-58">
+          <mxGeometry x="-0.7777" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7EFRxbz-zzoc5uvEwAoR-3" value="Turma já criada?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="387.5" y="310" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-9" target="oWwzNXWZX8qy_XJ1W_rp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-14" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-13">
+          <mxGeometry x="-0.202" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-9" target="7EFRxbz-zzoc5uvEwAoR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-18" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-16">
+          <mxGeometry x="0.1138" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-9" value="Aluno já possui conta no sso?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="23" y="547.5" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-15" target="oWwzNXWZX8qy_XJ1W_rp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="784.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-15" value="Criar conta no sso" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="567.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-21" target="oWwzNXWZX8qy_XJ1W_rp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-21" value="Criar a alocação do professor ao módulo" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="628.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-23" target="7EFRxbz-zzoc5uvEwAoR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-33" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-26">
+          <mxGeometry x="-0.3275" y="-2" relative="1" as="geometry">
+            <mxPoint x="-13" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-23" value="Instrutor possui conta no sso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="476" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EFRxbz-zzoc5uvEwAoR-25" target="7EFRxbz-zzoc5uvEwAoR-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-250" y="655.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-25" value="Criar conta no sso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="486" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-35" target="7EFRxbz-zzoc5uvEwAoR-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-35" value="Para cada dia de aula criar um módulo a partir do template padrão&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="800" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-36" value="Criar a matrícula desse aluno" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="840" y="738.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="7EFRxbz-zzoc5uvEwAoR-51" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="598.4999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-38" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-37">
+          <mxGeometry x="-0.0479" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-42" value="Criar aula" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="920" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-47" target="7EFRxbz-zzoc5uvEwAoR-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-44" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-43">
+          <mxGeometry x="-0.202" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-47" target="7EFRxbz-zzoc5uvEwAoR-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-46" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-45">
+          <mxGeometry x="0.1138" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-47" value="Aluno já possui conta no sso?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="531" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-49" target="7EFRxbz-zzoc5uvEwAoR-36" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1085" y="768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-49" value="Criar conta no sso" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="551" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-51" target="7EFRxbz-zzoc5uvEwAoR-35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-51" value="Criar a alocação do professor ao módulo" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="685" y="683.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-54" target="7EFRxbz-zzoc5uvEwAoR-56" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-53" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7EFRxbz-zzoc5uvEwAoR-52">
+          <mxGeometry x="-0.3275" y="-2" relative="1" as="geometry">
+            <mxPoint x="-13" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-54" value="Instrutor possui conta no sso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="531" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="7EFRxbz-zzoc5uvEwAoR-56" target="7EFRxbz-zzoc5uvEwAoR-51" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="710.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7EFRxbz-zzoc5uvEwAoR-56" value="Criar conta no sso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="541" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
